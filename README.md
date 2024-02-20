@@ -1,6 +1,4 @@
-# Comparing Alcohol Content in Red and White Wines : STAT-201-Group-Project-23
-
-Wine Quality Data Set: https://archive.ics.uci.edu/ml/datasets/Wine+Quality
+# Comparing Alcohol Content in Red and White Wines: 
 
 ## Introduction 
 
